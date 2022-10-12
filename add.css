@@ -10,7 +10,8 @@
 }
 .book-spread-section__p-item {
     font-size: 1rem;
-    line-height: 1.45;
+    line-height: 1.3;
+    margin-bottom: 12px;
 }
 .book-card {
 	margin-bottom: 20px;
@@ -35,3 +36,9 @@
 .books-section{
     gap: 10px;
 }
+.text-section--book-hgroup .p-item {
+	margin-bottom: 0px;
+}
+.major-article__technical-section technical-section {
+	margin-top: 20px;
+}	
