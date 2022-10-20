@@ -42,3 +42,6 @@
 .major-article__technical-section technical-section {
 	margin-top: 20px;
 }	
+hr {
+	border: 1px;	
+}
